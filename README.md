@@ -1,3 +1,4 @@
+1
 # SOLID
 
 S => SRP => Single Responsibility Principle
